@@ -1,6 +1,6 @@
-# Docker One-Liners
+# Sysadmin One-Liners
 
-A list of handy Docker one-liners.
+A list of handy sysadmin one-liners.
 
 ## Interactive Ubuntu Image
 
