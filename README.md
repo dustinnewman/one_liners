@@ -26,3 +26,7 @@ certbot --nginx
 # Answer questions
 ```
 
+## Use rsync with sudo privileges but still require password
+```
+rsync -aP <src_file> <remote_user>@<remote_ip>:<root_file_path> --rsync-path="sudo rsync"
+```
